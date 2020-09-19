@@ -1,6 +1,6 @@
-# Dissertation--Image-Captioning
+# Auto-Image-Captioning
 
-# Dependencies
+## Dependencies
 
 
  - Tensorflow 2.2
@@ -13,10 +13,14 @@
  - Glob
 
 
- # How to run 
+ ## How to run 
  
- The code file consists snippets from downloading packages to calculating the BLEU score
- The code is structured in a linked format from start to end.
- Running the code from start to end. 
+ - The code file consists snippets from downloading packages to calculating the BLEU score
+ - The code is structured in a linked format from start to end.
+ 
+ ## Note
+ 
+ - Running on CPU will take more processing time than Running the code on GPU.
+ 
  
 
