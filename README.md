@@ -15,6 +15,7 @@
 
  ## How to run 
  
+ - The code is in a notebook formant an ipynb file.
  - The code file consists snippets from downloading packages to calculating the BLEU score
  - The code is structured in a linked format from start to end.
  
