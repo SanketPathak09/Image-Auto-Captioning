@@ -2,14 +2,15 @@
 
 # Dependencies
 
-Tensorflow 2.2
-Keras 2.3
-Numpy 
-Pandas
-Matplotlib
-Pickle
-PIL
-Glob
+
+ - Tensorflow 2.2
+ - Keras 2.3
+ - Numpy 
+ - Pandas
+ - Matplotlib
+ - Pickle
+ - PIL
+ - Glob
 
 
  # How to run 
